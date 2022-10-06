@@ -114,3 +114,4 @@ ENV/
 .idea
 .DS_Store
 .vscode
+.sqlite3
